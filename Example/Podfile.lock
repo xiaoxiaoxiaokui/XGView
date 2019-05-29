@@ -1,0 +1,16 @@
+PODS:
+  - XGView (0.1.0)
+
+DEPENDENCIES:
+  - XGView (from `../`)
+
+EXTERNAL SOURCES:
+  XGView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XGView: fa756346fbd63f73bfbcb8f9f0d19093b6d94dad
+
+PODFILE CHECKSUM: dcee26506babb045a58e3e11c44847db2ba541fd
+
+COCOAPODS: 1.7.0

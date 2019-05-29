@@ -1,0 +1,6 @@
+framework module XGView {
+  umbrella header "XGView-umbrella.h"
+
+  export *
+  module * { export * }
+}
