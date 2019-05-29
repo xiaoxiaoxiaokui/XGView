@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'XGView_Example' do
+  pod 'XGView', :path => '../'
+
+  target 'XGView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
